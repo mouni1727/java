@@ -5,6 +5,7 @@ public class problem_04 {
 
         String message = m();
         System.out.println(message);
+        System.out.println(message);
     }
     static String m(){
         String m = "how are you";
