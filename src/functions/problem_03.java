@@ -1,6 +1,7 @@
 package functions;
 
 import java.util.Scanner;
+
 public class problem_03 {
     public static void main(String[] args) {
          int ans = sumM();

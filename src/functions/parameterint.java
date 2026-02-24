@@ -1,0 +1,14 @@
+package functions;
+
+public class parameterint {
+    public static void main(String[] args) {
+
+        int ans = sum(17,27);
+        System.out.println(ans);
+    }
+    static int sum(int a,int b){
+
+        int sum = a+b;
+        return sum;
+    }
+}
