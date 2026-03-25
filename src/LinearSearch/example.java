@@ -11,7 +11,7 @@ public class example {
     }
     static int linearSearch(int[] example,int value) {
         if (example.length == 0) {
-            return -1;
+            return -1 ;
         }
         for (int i = 0; i <= example.length; i++) {
             int elements = example[i];
